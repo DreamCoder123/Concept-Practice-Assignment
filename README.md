@@ -12,4 +12,17 @@ The system consists of two user profiles there is a customer account and an admi
 after successful registration process. Customers can make many changes along
 with the order in this section.
 
-After Successfully registration user can search for the particular product 
+After Successfully registration user can search for the particular product He/she can see the particular categories to search for the products.
+Categories
+In categories option there are two sections, view category and add category. If
+we want to add some categories in add category section then it will be shown in
+view categories. And there are also edit and delete option. If we delete or edit
+something that also be shown in view categories.
+Product
+Product option is same as categories option. Like there are also two sections
+for product view and add product and it’s also act same as categories function.
+View products also have the same rules and also can be generated through database.
+Orders
+In this function there are all of order that admin is received from users. And
+there is also shown the order details here. View orders also have the same database and list page to follow the order track. Figure 7 illustrates the order lists of
+the customers with details in data base
