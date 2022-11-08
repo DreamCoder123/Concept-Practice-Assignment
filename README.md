@@ -24,5 +24,5 @@ for product view and add product and it’s also act same as categories function
 View products also have the same rules and also can be generated through database.
 Orders
 In this function there are all of order that admin is received from users. And
-there is also shown the order details here. View orders also have the same database and list page to follow the order track. Figure 7 illustrates the order lists of
+there is also shown the order details here. View orders also have the same database and list page to follow the order track in the order lists of
 the customers with details in data base
